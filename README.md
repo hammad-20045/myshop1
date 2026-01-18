@@ -1,3 +1,3 @@
 # myshop1
 this is my second repository of web project
-Author:hammad mustafa
+Author:hammad mustafa nadeem shehzad
